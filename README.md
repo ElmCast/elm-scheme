@@ -12,3 +12,4 @@ Full source code for each chapter will be posted to [Github](https://github.com/
 
 1. [First Steps](http://www.elmcast.io/write-yourself-a-scheme-in-elm-first-steps/)
 2. [Parsing](http://www.elmcast.io/write-yourself-a-scheme-in-elm-parsing/)
+3. [Testing](http://www.elmcast.io/write-yourself-a-scheme-in-elm-testing/)
